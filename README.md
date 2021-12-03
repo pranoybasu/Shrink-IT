@@ -1,6 +1,6 @@
 ## About
 
-Image Compression Software Shrink-It
+Image Compression Software *Shrink-It*
 
 ## Features:
 
